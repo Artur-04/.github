@@ -7,7 +7,7 @@ My projects include an ultrasonic Doppler measurement setup, a sensor-guided LEG
 ## Projects
 
 - [Ultrasonic Doppler Flow Sensor](https://github.com/Artur-04/Ultrasonic-Doppler-Bloodflow-Measurement) — Custom measurement setup, a 3D-printed fixture designed in AutoCAD, and signal evaluation in LabVIEW.
-- [Raspberry Pi Project]([RASPBERRY_PI_REPO_URL](https://github.com/Felix-Artur-Sideprojects/raspberry-pi-face-tracker))
+- [Raspberry Pi Project](https://github.com/Felix-Artur-Sideprojects/raspberry-pi-face-tracker)
 - [Radar HUD](https://github.com/Felix-Artur-Sideprojects/radar-hud)
 
 I also build projects with Felix: [Felix & Artur Side Projects](https://github.com/Felix-Artur-Sideprojects).
