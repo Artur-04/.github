@@ -2,7 +2,7 @@
 
 I'm studying Environmental and Industrial Sensor Technology at OTH Regensburg, with a particular interest in optoelectronics and camera systems.
 
-I like working on projects that combine physics, electronics, and programming. Throughout that process I enjoy working through the whole process: designing the setup, building it, and making sense of the measurements.
+I enjoy working on projects that combine physics, electronics, and programming, from designing and building the setup to making sense of the measurements.
 
 ## Projects
 
