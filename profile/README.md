@@ -6,8 +6,10 @@ I enjoy working on projects that combine physics, electronics, and programming, 
 
 ## Projects
 
-- [Ultrasonic Doppler Flow Sensor](https://github.com/Artur-04/Ultrasonic-Doppler-Bloodflow-Measurement) — Custom measurement setup, a 3D-printed fixture designed in AutoCAD, and signal evaluation in LabVIEW.
+- [Ultrasonic Doppler Flow Sensor](https://github.com/Artur-04/Ultrasonic-Doppler-Bloodflow-Measurement)
+  
 - [Raspberry Pi Face Tracker](https://github.com/Felix-Artur-Sideprojects/raspberry-pi-face-tracker)
-- [Radar HUD](https://github.com/Felix-Artur-Sideprojects/radar-hud)
+  
+- [Radar HUD](https://github.com/Felix-Artur-Sideprojects/radar-hud) (current project)
 
 
