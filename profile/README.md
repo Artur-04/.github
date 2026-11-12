@@ -2,7 +2,7 @@
 
 I'm studying Environmental and Industrial Sensor Technology at OTH Regensburg, with a particular interest in optoelectronics and camera systems.
 
-My projects include an ultrasonic Doppler measurement setup, a sensor-guided LEGO robot, and a camera that automatically detects and follows faces. I enjoy working through the whole process: designing the setup, building it, and making sense of the measurements.
+I like working on projects that combine physics, electronics, and programming. Throughout that process I enjoy working through the whole process: designing the setup, building it, and making sense of the measurements.
 
 ## Projects
 
