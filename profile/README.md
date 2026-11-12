@@ -10,4 +10,4 @@ My projects include an ultrasonic Doppler measurement setup, a sensor-guided LEG
 - [Raspberry Pi Face Tracker](https://github.com/Felix-Artur-Sideprojects/raspberry-pi-face-tracker)
 - [Radar HUD](https://github.com/Felix-Artur-Sideprojects/radar-hud)
 
-I also build projects with Felix: [Felix & Artur Side Projects](https://github.com/Felix-Artur-Sideprojects).
+
