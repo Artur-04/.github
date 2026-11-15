@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Monochromes Schwarzes Loch mit Lichtbögen.png" width="100%" />
+</p>
+
 # Hi, I'm Artur
 
 I'm studying Environmental and Industrial Sensor Technology at OTH Regensburg, with a particular interest in optoelectronics and camera systems.
