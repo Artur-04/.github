@@ -1,4 +1,4 @@
-![banner image](Monochromes%20Schwarzes%20Loch%20mit%20Lichtb%C3%B6gen.png)
+![banner image](banner.png)
 
 # Hi, I'm Artur
 
