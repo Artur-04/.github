@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Monochromes Schwarzes Loch mit Lichtbögen.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Artur-04/Artur-04/main/banner.png" width="100%" />
 </p>
 
 # Hi, I'm Artur
