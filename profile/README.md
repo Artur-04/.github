@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./Monochromes%20Schwarzes%20Loch%20mit%20Lichtb%C3%B6gen.png" width="100%" />
-</p>
+![banner image](./Monochromes%20Schwarzes%20Loch%20mit%20Lichtb%C3%B6gen.png)
 
 # Hi, I'm Artur
 
