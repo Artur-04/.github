@@ -1,4 +1,4 @@
-![banner image](banner.png)
+![banner image](profile/banner.png)
 
 # Hi, I'm Artur
 
