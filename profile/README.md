@@ -8,10 +8,10 @@ I enjoy working on projects that combine physics, electronics, and programming, 
 
 ## Projects
 
-- [Ultrasonic Doppler Flow Sensor](https://github.com/Artur-04/Ultrasonic-Doppler-Bloodflow-Measurement)
-  
-- [Raspberry Pi Face Tracker](https://github.com/Felix-Artur-Sideprojects/raspberry-pi-face-tracker)
-  
 - [Radar HUD](https://github.com/Felix-Artur-Sideprojects/radar-hud) (current project)
 
+- [Raspberry Pi Face Tracker](https://github.com/Felix-Artur-Sideprojects/raspberry-pi-face-tracker)
+  
+- [Ultrasonic Doppler Flow Sensor](https://github.com/Artur-04/Ultrasonic-Doppler-Bloodflow-Measurement)
 
+- [LEGO Mindstorms Robot](https://github.com/Artur-04/LEGO-Mindstorms-Robot)
